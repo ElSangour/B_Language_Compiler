@@ -51,7 +51,7 @@ void error(const char* string)
 void main(int argc, char* argv[])
 {
     if (argc == 1) error("Error: no file specified.");
-    file* file = fopen(argv[1], "r");
+    file* file = fopen(argv[1], "r") ;
     if (!file) error("Error: could not open file.");
     while (fread(&current_char, sizeof(char), 1, file)) {
         switch (current_char) {
