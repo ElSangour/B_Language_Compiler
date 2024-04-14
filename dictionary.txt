@@ -1,0 +1,28 @@
+ 	***This is our grammar vocacb and its matching ids :
+program =1
+id =2
+point virgule =3 
+point =4 
+var =5
+deux points 6 
+integer =7
+char =8
+begin =9
+end =10
+virgule =
+affecation = 12 
+si= 13
+alors = 14
+sinon = 15
+tantque  = 16
+fait = 17
+lit = 18
+litln = 19
+ecrit = 20
+ecritln = 21
+parenthese ouvrante = 22  
+parenthese fermante = 23
++ = 24
+=25
+* = 26
+nb =27 
